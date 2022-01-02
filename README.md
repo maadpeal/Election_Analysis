@@ -54,3 +54,6 @@ participation by county.
     If the modifications are made to calculate the above, very probably little would have to be modified to repeat the same operation
     In the case of governors, in fact it is a less complex level due to the number of votes that would be significantly lower, but
     With the same base structure, some variables should be renamed and the console prints should obviously change.
+    
+## Print of terminal
+![]https://github.com/maadpeal/Election_Analysis/blob/main/Resources/terminal_print.png
